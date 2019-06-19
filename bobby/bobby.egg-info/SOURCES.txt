@@ -1,0 +1,7 @@
+README.md
+bobby
+setup.py
+bobby/bobby.egg-info/PKG-INFO
+bobby/bobby.egg-info/SOURCES.txt
+bobby/bobby.egg-info/dependency_links.txt
+bobby/bobby.egg-info/top_level.txt
